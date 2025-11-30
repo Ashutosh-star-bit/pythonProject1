@@ -43,7 +43,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the Repository
 Bash
-git clone https://github.com/your-username/bus-reservation-system.git
+git clone https://github.com/Ashutosh-star-bit/pythonProject1.git
 cd bus-reservation-system
 2. Install Python Dependencies
 Install the required Python libraries using pip:
